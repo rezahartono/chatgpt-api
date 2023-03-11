@@ -1,0 +1,14 @@
+.body {
+    margin-top: 20px;
+    height: 80vh;
+    background-color: var(--light);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.messageInput {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
